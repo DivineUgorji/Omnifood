@@ -34,7 +34,9 @@ Shades:
 
 Accents:
 
-Greys: #555
+Greys:
+#6f6f6f 
+#555
 #333
 
 -- 05 SHADOWS 
@@ -110,7 +112,7 @@ body {
 
 .heading-secondary {
   font-size: 4.4rem;
-  line-height: 1.2rem;
+  line-height: 1.2;
   margin-bottom: 9.6rem;
 }
 
